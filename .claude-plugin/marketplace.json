@@ -1,7 +1,14 @@
 {
   "name": "ai-seo",
-  "owner": { "name": "Sipher" },
+  "description": "Agent skills for SEO and AEO/GEO optimization.",
+  "owner": {
+    "name": "Sipher"
+  },
   "plugins": [
-    { "name": "ai-seo", "source": "./", "description": "SEO + AEO/GEO audit and scoring skill." }
+    {
+      "name": "ai-seo",
+      "source": "./",
+      "description": "SEO + AEO/GEO audit and scoring skill."
+    }
   ]
 }

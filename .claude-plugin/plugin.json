@@ -2,7 +2,10 @@
   "name": "ai-seo",
   "version": "0.1.0",
   "description": "Audit and raise SEO plus AEO/GEO (AI answer engine) scores of a website.",
-  "author": { "name": "Sipher" },
+  "license": "MIT",
+  "author": {
+    "name": "Sipher"
+  },
   "repository": "https://github.com/sipherxyz/ai-seo",
   "skills": "./skills/"
 }

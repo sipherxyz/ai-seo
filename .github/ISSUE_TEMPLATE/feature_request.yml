@@ -1,0 +1,11 @@
+name: Feature request
+description: Suggest a new check, skill, or improvement
+labels: [enhancement]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What do you want
+      description: The problem and the change you suggest.
+    validations:
+      required: true

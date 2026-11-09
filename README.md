@@ -40,3 +40,12 @@ python3 skills/aeo-seo-optimize/scripts/score.py --url https://example.com/ --ou
 ```
 
 See [SKILL.md](skills/aeo-seo-optimize/SKILL.md) for the workflow and [playbook.md](skills/aeo-seo-optimize/references/playbook.md) for fixes per category.
+
+## Contributing
+
+Contributions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) and the [Code of Conduct](CODE_OF_CONDUCT.md).
+Report security problems privately as described in [SECURITY.md](SECURITY.md).
+
+## License
+
+[MIT](LICENSE)

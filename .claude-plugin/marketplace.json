@@ -1,0 +1,7 @@
+{
+  "name": "ai-seo",
+  "owner": { "name": "Sipher" },
+  "plugins": [
+    { "name": "ai-seo", "source": "./", "description": "SEO + AEO/GEO audit and scoring skill." }
+  ]
+}
